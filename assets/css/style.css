@@ -72,10 +72,8 @@ nav ul li a:hover::after {
 }
 .section1_bcground {
   background-image: url("../image/main.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: fixed;
-  min-height: 100vh;
+
+  background-repeat: no-repeat; 
 }
 .hero_section1_para1 {
   color: #8a3e74;
@@ -88,6 +86,12 @@ nav ul li a:hover::after {
   font-size: 36px;
   line-height: 54px;
   color: #000000;
+}
+.mb-330{
+  margin-bottom: 330px;
+}
+.mt--230{
+      margin-top: -230px;
 }
 .colour_me_btn {
   background: linear-gradient(90deg, #9104e5 0%, #f93b96 96.47%);
