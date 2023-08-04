@@ -810,6 +810,9 @@ img[alt="section11_image3"]:hover {
   .w_xl_15 {
     width: 15%;
   }
+  .max-width{
+    max-width: 100%;
+  }
   .left_color_image {
     position: absolute;
     top: 56%;
@@ -1612,9 +1615,9 @@ img[alt="section11_image3"]:hover {
   .section11_box {
     border-radius: 0px;
   }
-  .section11_para1 {
+  /* .section11_para1 {
     max-width: 420px;
-  }
+  } */
   .section11_para2 {
     max-width: 140px;
   }
