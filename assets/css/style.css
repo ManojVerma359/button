@@ -137,7 +137,6 @@ nav ul li a:hover::after {
 }
 .gradient_hover {
   background-image: url(../image/bgimag11.png);
-  top: 0%;
   height: 100%;
   width: 100%;
   opacity: 0;
